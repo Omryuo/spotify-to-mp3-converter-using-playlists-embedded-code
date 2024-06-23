@@ -38,7 +38,7 @@ Go to the Spotify [dashboard](https://developer.spotify.com/dashboard/).  Log in
 
 You should see this:
 
-![Spotify App Screen] <img width="1440" alt="Screenshot 2024-06-24 at 02 49 25" src="https://github.com/Omryuo/spotify-to-mp3-converter-using-playlists-embedded-code/assets/172975907/b15c390c-0929-4ea3-bba5-35411f5ee929">
+![Spotify Dashboard] <img width="1440" alt="Screenshot 2024-06-24 at 02 49 25" src="https://github.com/Omryuo/spotify-to-mp3-converter-using-playlists-embedded-code/assets/172975907/b15c390c-0929-4ea3-bba5-35411f5ee929">
 
 
 You will see the "Client ID" field on the left (it's redacted here). Copy and save your Client ID somewhere - you'll need it later. Click "Show client secret" under Client ID and it should show you another long list of characters. Also copy and save your Client Secret.
