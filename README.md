@@ -18,7 +18,7 @@ If you aren't familiar with Git, navigate to the top-left of this page and find 
 Open a terminal session and navigate to this folder, using `cd`.
 
 ```bash
-cd spotify-to-mp3-python/
+cd spotify-to-mp3-converter-using-playlists-embedded-code/
 ```
 
 ### 2. Installing dependencies
