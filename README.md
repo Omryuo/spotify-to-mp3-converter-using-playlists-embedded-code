@@ -1,4 +1,4 @@
-# Spotify-to-mp3-converter-using-playlist-s-embedded-code
+# Spotify-to-mp3-converter-using-playlists-embedded-code
 The simplest way to download your Spotify playlist into MP3 files, using Python 3.
 
 ## How To Use
